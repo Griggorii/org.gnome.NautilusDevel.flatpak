@@ -15,3 +15,4 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 flatpak install flathub org.gnome.Platform//3.28
 теперь при выборе user заработает открываем директорию с org.gnome.NautilusDevel.flatpak и из терминала выполняем ниже
 flatpak install --bundle org.gnome.NautilusDevel.flatpak
+Открываем любой другой проводник в нем ПКМ выбираем открыть с помощью nemo 
