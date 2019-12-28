@@ -29,4 +29,4 @@ flatpak install --bundle org.gnome.NautilusDevel.flatpak
 
 Открываем любой другой проводник в нем ПКМ выбираем открыть с помощью nemo 
 
-https://radikal.ru/video/hY1k48ta5VH так же gnome-control-center-3.32.1 который я использовал даже в 19.04 взять можно тут https://github.com/Griggorii/gnome-control-center-3.32.1
+Как все это работает https://radikal.ru/video/hY1k48ta5VH так же gnome-control-center-3.32.1 который я использовал даже в 19.04 взять можно тут https://github.com/Griggorii/gnome-control-center-3.32.1
